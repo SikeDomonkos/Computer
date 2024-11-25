@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanulo\\GitWorkDir\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3180FACC-A8D0-4EC3-93D1-5744C521EEF6}|School\\School.csproj|c:\\users\\tanulo\\gitworkdir\\school\\school\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180FACC-A8D0-4EC3-93D1-5744C521EEF6}|School\\School.csproj|solutionrelative:school\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanulo\\GitWorkDir\\School\\School\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "School\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanulo\\GitWorkDir\\School\\School\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "School\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:37:54.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
